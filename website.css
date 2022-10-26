@@ -1,0 +1,14 @@
+ body{
+	 background-color: lightyellow;
+ }
+ h1{
+ font-size: 50px;
+ }
+ 
+ h3{
+	 text-decoration: underline;
+ }
+ img{
+	 margin-left:250px;
+	 width: 200px;
+	 border-radius:20%;
