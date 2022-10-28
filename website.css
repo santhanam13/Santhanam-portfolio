@@ -1,15 +1,95 @@
- body{
-	 background-color: lightyellow;
+  body{
+	 background-image:url('img/wallpaper2.jpg' );
+	 color:white;
+	  
+	 
  }
- h1{
+ 
+ header{
+	 background-image: url( 'img/headbck.jpg');
+	 height:100px;
+	 background-size:cover;
+ }
+ header h1{
+  margin-left:10%;
+ 
+  
  font-size: 50px;
+ text-shadow: -3px 2px white;
+  
+ }
+ header .name{
+	 margin-top:30px;
+	 	margin-left:600px;
+ }
+ .omi{
+	 float: right;
+	 width:900;
+	 
+ 
  }
  
  h3{
 	 text-decoration: underline;
+     margin-left: 240px;	 
+	 }
+	 
+ .decoration{
+	 width: 300px;
+	 border-radius:50px;
+	 margin-left:200px;
+	  
+	 box-shadow: 5px 5px 5px 5px white;
  }
- img{
-	 margin-left:44%;
-	 width: 200px;
-	 border-radius:20%;
- }
+hr{
+	border-width:3px ;
+	border-color: pink;
+}
+.logo6{
+	margin-left:1350px;
+	margin-top:10px;
+	 
+	width:100px;
+}
+
+h2{
+	margin-top: 150px;
+	 font-style: italic;
+	 font-size: 40px;
+}
+	
+
+ .omi p{
+	font-size:30px;
+}
+
+.arts img{
+	
+    margin-left:40px;
+	border-radius: 10%;
+	box-shadow: 3px  3px  3px  3px white;
+	
+}
+ 
+
+footer {
+	height:40px;
+	background-color: white;
+}
+footer ul{
+	list-style:none;
+	display:flex;
+}
+footer li{
+	align-items:center
+}
+footer img{
+	 margin: 0px 230px;
+}
+footer hover{
+	background-color:yellow;
+}
+a:hover {
+  background-color: yellow;
+  
+}
